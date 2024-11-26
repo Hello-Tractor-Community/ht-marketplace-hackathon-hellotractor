@@ -46,28 +46,42 @@ Please organize and complete the following deliverables within this repository:
 - Provide any architecture diagrams or flowcharts explaining the design.
 - **Documentation**: Add details in a `docs/` folder or link to relevant markdown files.
 
-for Seller Dashboard 
- https://tractorseller.vercel.app/
+## Project Links
 
+### Seller Dashboard
+[Seller Dashboard](https://tractorseller.vercel.app/)
 
-for Tractor_shop
- https://tractorshop1.vercel.app/
+### Tractor Shop
+[Tractor Shop](https://tractorshop1.vercel.app/)
 
+### Tractor USSD
+Text WhatsApp: +1-857-688-9770  
+Use join unit-cause to join sandbox
 
-for tractor_ussd
-text whatsapp:+18576889770
-use join unit-cause to join sandbox
+### Tractor WhatsApp
+*I'll share the images.*
 
+### Admin Dashboard
+[Admin Dashboard](https://tractoradmin.vercel.app/)
 
-for tractor_whatsapp
-ill share the images 
+### Tractor AI Assistant
+*I'll share the images.*
 
+### Video Drive and Other Images
+[Video drive and other images](https://drive.google.com/drive/folders/1wP71jqvOHj6tkAj6yz-lA2XkWovHc-1d?usp=sharing)
 
-for admin_Dashboard
- https://tractoradmin.vercel.app/
+### Slides
+[Slides](https://app.pitch.com/app/presentation/64ab5de7-3ab0-4f61-8e4f-4e07bbae1883/d3b3138e-77a9-4974-980d-d7c6fd3cfc2b)
 
-for tractor-ai-assistant
-ill share the images
+---
+
+## Setting Up the Repo
+
+Ensure you have Git ([Download Git](https://git-scm.com/)), Node (>=v20) ([nvm](https://github.com/nvm-sh/nvm)), Python3, virtualenv/pip, and a code editor installed on your machine.
+
+### Clone the Repo
+```bash
+git clone (project name)
 
 
 Video drive and other images 
