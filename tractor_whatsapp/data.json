@@ -7,7 +7,6 @@
       "price": 10000,
       "image": "https://example.com/images/john-deere-x350.jpg",
       "condition": "Used"
-      
     },
     {
       "id": 2,
@@ -294,10 +293,10 @@
     {
       "phone": "whatsapp:+254708419386",
       "currentNegotiation": {
-        "tractorId": 16,
+        "tractorId": 4,
         "stage": "offer_collection"
       },
-      "name": "caleb jephunneh"
+      "name": "caieb jephunhe"
     }
   ]
 }

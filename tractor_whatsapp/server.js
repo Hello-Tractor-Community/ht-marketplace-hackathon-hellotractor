@@ -5,7 +5,7 @@ const bodyParser = require("body-parser");
 const { MessagingResponse } = require("twilio").twiml;
 
 const app = express();
-const PORT = 3000;
+const PORT = 3010;
 
 // Path to data.json
 const dataFilePath = path.join(__dirname, "data.json");
