@@ -1,48 +1,67 @@
-for Seller Dashboard 
- https://tractorseller.vercel.app/
+# Project Setup Guide
 
+## Prerequisites
+- Git installed
+- Node.js (recommended version 18.x or later)
+- npm (Node Package Manager)
 
-for Tractor_shop
- https://tractorshop1.vercel.app/
+## General Setup Steps
 
+### 1. Clone the Repository
+```bash
+# Replace <PROJECT_NAME> with the specific project repository
+git clone https://github.com/yourusername/<PROJECT_NAME>.git
+```
 
-for tractor_ussd
-text whatsapp:+18576889770
-use join unit-cause to join sandbox
+### 2. Navigate to Project Directory
+```bash
+# Change into the project directory
+cd <PROJECT_NAME>
+```
 
-
-for tractor_whatsapp
-ill share the images 
-
-
-for admin_Dashboard
- https://tractoradmin.vercel.app/
-
-for tractor-ai-assistant
-ill share the images
-
-
-Video drive and other images 
-https://drive.google.com/drive/folders/1wP71jqvOHj6tkAj6yz-lA2XkWovHc-1d?usp=sharing
-
-slides
-https://app.pitch.com/app/presentation/64ab5de7-3ab0-4f61-8e4f-4e07bbae1883/d3b3138e-77a9-4974-980d-d7c6fd3cfc2b
-
-
-
-
-for all these projects cd
-
-
-Setting up the repo
-Clone the repo
-git clone (project name)
-cd into the project directory
-cd ......(project name)
-
-Install dependencies
+### 3. Install Dependencies
+```bash
+# Install all required dependencies
 npm install
-Setup environment variables
+```
+
+### 4. Configure Environment Variables
+```bash
+# Copy the example environment file
 cp .env.example .env
-Start the development server
+
+# Open .env and fill in the required configuration values
+```
+
+### 5. Start Development Server
+```bash
+# Run the development server
 npm run dev
+```
+
+The application will typically be available at `http://localhost:3000`
+
+### 3. **Live Application URL**
+- Deploy your application to a platform like Vercel, Netlify, or AWS.
+- **Link to Live App**: [TractorShop](https://shop-tractor.vercel.app/)
+- **Link to Live App**: [AdminDashboard](https://tractoradmin.vercel.app/)
+- **Link to Live App**: [SellerDashboard](https://seller-dashboard-nu.vercel.app/)
+
+## Additional Resources
+### **Video Drive and Other Images**
+[![Pitch Deck](https://img.youtube.com/vi/NwOQOnoQrJg/0.jpg)](https://youtu.be/NwOQOnoQrJg)
+
+- Project Slides: [Pitch Presentation](https://app.pitch.com/app/presentation/64ab5de7-3ab0-4f61-8e4f-4e07bbae1883/d3b3138e-77a9-4974-980d-d7c6fd3cfc2b)
+
+## Troubleshooting
+- Ensure all environment variables are correctly set
+- Check that you have the correct Node.js version installed
+- Run `npm install` if you encounter any dependency issues
+
+## Contributing
+- If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+- Ensure your code follows the project's coding standards and conventions.
+
+## License
+- This project is licensed under the [MIT License](LICENSE).
+

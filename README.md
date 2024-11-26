@@ -37,7 +37,7 @@ Please organize and complete the following deliverables within this repository:
 - Upload your video to YouTube, Vimeo, or as an mp4 file.
 - **Link to Demo Video**: [Insert your video link here]
 
-### 3. **Live Application URL**
+### 3. **Live Application URLS**
 - Deploy your application to a platform like Vercel, Netlify, or AWS.
 - **Link to Live App**: [TractorShop](https://shop-tractor.vercel.app/)
 - **Link to Live App**: [AdminDashboard](https://tractoradmin.vercel.app/)
@@ -46,17 +46,6 @@ Please organize and complete the following deliverables within this repository:
 ### **Tractor USSD**
 Text WhatsApp: +1-857-688-9770  
 Use join unit-cause to join sandbox and test 
-
-
-
-
-
-
-### Admin Dashboard
-[Admin Dashboard](https://tractoradmin.vercel.app/)
-
-### Tractor AI Assistant
-*I'll share the images.*
 
 ### **Video Drive and Other Images**
 [![Pitch Deck](https://img.youtube.com/vi/NwOQOnoQrJg/0.jpg)](https://youtu.be/NwOQOnoQrJg)
