@@ -49,10 +49,10 @@ Please organize and complete the following deliverables within this repository:
 ## Project Links
 
 ### Seller Dashboard
-[Seller Dashboard](https://tractorseller.vercel.app/)
+[Seller Dashboard](https://seller-dashboard-nu.vercel.app/)
 
 ### Tractor Shop
-[Tractor Shop](https://tractorshop1.vercel.app/)
+[Tractor Shop](https://shop-tractor.vercel.app/)
 
 ### Tractor USSD
 Text WhatsApp: +1-857-688-9770  
