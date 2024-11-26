@@ -46,34 +46,32 @@ Please organize and complete the following deliverables within this repository:
 - Provide any architecture diagrams or flowcharts explaining the design.
 - **Documentation**: Add details in a `docs/` folder or link to relevant markdown files.
 
-### 5. **Project Report**
-Complete this section in a separate ReadMe file `report.md`:
-- **Project Name**: [Insert your project name]
-- **Team Members**: [List all members and their GitHub handles]
-- **Tech Stack**: [Mention all technologies used]
-- **Key Features**: [Briefly list the implemented features]
-- **Challenges**: [Summarize major challenges faced and how they were solved]
-- **Lessons Learned**: [Highlight key takeaways from the project]
+for Seller Dashboard 
+ https://tractorseller.vercel.app/
 
----
 
-## **Submission Process 📥**
+for Tractor_shop
+ https://tractorshop1.vercel.app/
 
-1. Complete your project and ensure all deliverables are present in this repository.
-2. **Submission Deadline**: All submissions must be finalized by **Friday, Nov 22nd, 23:59 EAT**.
-3. Submit your repository by ensuring all deliverables are present in this repository and locked by the deadline.
 
----
+for tractor_ussd
+text whatsapp:+18576889770
+use join unit-cause to join sandbox
 
-## **Important Links 🔗**
-- [Hackathon Website](https://hackathon.hellotractor.com)
-- [Hello Tractor Main Site](https://hellotractor.com)
 
----
+for tractor_whatsapp
+ill share the images 
 
-## **Contact & Support 📞**
-For any questions, reach out via Discord. Mentors will host office hours to assist with challenges and technical support.
 
----
+for admin_Dashboard
+ https://tractoradmin.vercel.app/
 
-**Good luck and happy hacking!** 🚀
+for tractor-ai-assistant
+ill share the images
+
+
+Video drive and other images 
+https://drive.google.com/drive/folders/1wP71jqvOHj6tkAj6yz-lA2XkWovHc-1d?usp=sharing
+
+slides
+https://app.pitch.com/app/presentation/64ab5de7-3ab0-4f61-8e4f-4e07bbae1883/d3b3138e-77a9-4974-980d-d7c6fd3cfc2b
