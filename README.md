@@ -39,16 +39,16 @@ Please organize and complete the following deliverables within this repository:
 
 ### 3. **Live Application URLS**
 - Deploy your application to a platform like Vercel, Netlify, or AWS.
-- **Link to Live App**: [TractorShop](https://shop-tractor.vercel.app/)
-- **Link to Live App**: [AdminDashboard](https://tractoradmin.vercel.app/)
-- **Link to Live App**: [SellerDashboard](https://seller-dashboard-nu.vercel.app/)
+- **Link to Live TractorShop App**: [TractorShop](https://shop-tractor.vercel.app/)
+- **Link to Live AdminDashboard App**: [AdminDashboard](https://tractoradmin.vercel.app/)
+- **Link to Live SellerDashboard App**: [SellerDashboard](https://seller-dashboard-nu.vercel.app/)
 
-### **Tractor USSD**
+### 4. **Tractor USSD**
 Text WhatsApp: +1-857-688-9770  
 Use join unit-cause to join sandbox and test 
 
-### **Video Drive and Other Images**
+### 5. **Video Drive and Other Images**
 [![Pitch Deck](https://img.youtube.com/vi/NwOQOnoQrJg/0.jpg)](https://youtu.be/NwOQOnoQrJg)
 
-### **Slides**
+### 6. **Slides**
 [Slides](https://app.pitch.com/app/presentation/64ab5de7-3ab0-4f61-8e4f-4e07bbae1883/d3b3138e-77a9-4974-980d-d7c6fd3cfc2b)
