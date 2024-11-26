@@ -52,3 +52,6 @@ Use join unit-cause to join sandbox and test
 
 ### 6. **Slides**
 [Slides](https://app.pitch.com/app/presentation/64ab5de7-3ab0-4f61-8e4f-4e07bbae1883/d3b3138e-77a9-4974-980d-d7c6fd3cfc2b)
+
+### 7. **AI Call Assistant Video**
+[AI Call Assistant Video](https://youtu.be/bE_nD5B61a8)
