@@ -48,10 +48,14 @@ The application will typically be available at `http://localhost:3000`
 - **Link to Live App**: [SellerDashboard](https://seller-dashboard-nu.vercel.app/)
 
 ## Additional Resources
-### **Video Drive and Other Images**
+### **Pitch Deck Video**
 [![Pitch Deck](https://img.youtube.com/vi/NwOQOnoQrJg/0.jpg)](https://youtu.be/NwOQOnoQrJg)
 
 - Project Slides: [Pitch Presentation](https://app.pitch.com/app/presentation/64ab5de7-3ab0-4f61-8e4f-4e07bbae1883/d3b3138e-77a9-4974-980d-d7c6fd3cfc2b)
+
+
+### **AI Call Assistant Video**
+[![AI Call Assistant Video](https://img.youtube.com/vi/bE_nD5B61a8/0.jpg)](https://youtu.be/bE_nD5B61a8)
 
 ## Troubleshooting
 - Ensure all environment variables are correctly set
