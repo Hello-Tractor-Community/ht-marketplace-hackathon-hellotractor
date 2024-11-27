@@ -44,7 +44,8 @@ Please organize and complete the following deliverables within this repository:
 - **Link to Live SellerDashboard App**: [SellerDashboard](https://seller-dashboard-nu.vercel.app/)
 
 ### 4. **Tractor USSD**
-Text WhatsApp: +1-857-688-9770  
+Text WhatsApp: +14155238886
+
 Use join unit-cause to join sandbox and test 
 
 ### 5. **Pitch Deck Video**
